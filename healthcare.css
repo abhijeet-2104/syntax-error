@@ -1,0 +1,12 @@
+.starting {
+    display: flexbox;
+    justify-content: center;
+    margin-left: 400px;
+    margin-right: auto;
+    height: 100%;
+    width:100%;
+}
+/* .pricing {
+    width: 1200px;
+    justify-content: center;
+} */
